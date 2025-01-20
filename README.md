@@ -1,5 +1,5 @@
 <h1 align="center">Olá mundo Eu sou o Samuel também conhecido como Raposo</h1>
-<h3 align="center">App Developer, Frontend Developer, and UI/UX Designer.</h3>
+<h3 align="center">Web Designer, Frontend Developer, and UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelribeiroteixeira&label=Profile%20views&color=0e75b6&style=flat" alt="samuelribeiroteixeira" /> </p>
 
